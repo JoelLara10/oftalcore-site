@@ -38,7 +38,7 @@ El identificador Android `com.ineo.hospital` se conserva para continuidad. La ma
 ## Recursos y privacidad del sitio
 
 - `assets/oftalcore-icon.png`: icono original de la aplicación.
-- `assets/app-administracion.png`: captura real de demostración del cliente exportado a web, con datos sintéticos y sin información de pacientes reales.
+- `assets/app-administracion.jpg`: captura real de demostración del cliente exportado a web, con datos sintéticos y sin información de pacientes reales.
 - CSS y JavaScript locales, sin dependencias remotas ni imágenes de terceros.
 - Sin cookies propias, analítica, anuncios, formularios remotos, localStorage o sessionStorage.
 - El proveedor de alojamiento puede conservar sus propios registros técnicos de conexión.
