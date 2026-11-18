@@ -1,6 +1,6 @@
 # OftalCore · Sitio público y centro de confianza
 
-Sitio estático de presentación de OftalCore, desarrollado bajo la marca VISLY. Incluye información del producto, privacidad, términos, soporte, eliminación de datos y navegación. Está separado del repositorio de la app móvil y del sitio corporativo VISLY.
+Sitio estático de presentación de OftalCore, plataforma con sistema web, app móvil Android y prototipo IoT ESP32, desarrollada bajo la marca VISLY. Este sitio informativo es independiente del sistema web clínico. Incluye información del producto, privacidad, términos, soporte, eliminación de datos y navegación. Está separado del repositorio de la app móvil y del sitio corporativo VISLY.
 
 ## Publicar en Vercel
 
